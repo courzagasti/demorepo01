@@ -1,3 +1,5 @@
 Paso 1:
 
 Git push
+
+Git push nuevamente
